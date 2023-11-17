@@ -60,7 +60,7 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 
 ## Support
 
-If you encounter any issues or have questions, please [create an issue](https://github.com/your-username/your-repo/issues).
+If you encounter any issues or have questions, please [create an issue](https://github.com/sivakumar-mahalingam/Azure-AI/issues).
 
 ## Roadmap
 
